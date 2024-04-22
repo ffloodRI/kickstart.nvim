@@ -100,7 +100,7 @@ vim.g.have_nerd_font = false
 
 vim.api.nvim_set_keymap('i', 'jj', '<Esc>', {noremap = true, silent = true})
 vim.opt.tabstop = 4
-vim.opt.shiftwidth = 4,
+vim.opt.shiftwidth = 4
 vim.opt.expandtab = false
 
 -- Make line numbers default
